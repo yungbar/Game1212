@@ -1,0 +1,149 @@
+D:\Games\ООП\Svetofor\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Games\ООП\Svetofor\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Games\ООП\Svetofor\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Games\ООП\Svetofor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Games\ООП\Svetofor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Games\ООП\Svetofor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Games\ООП\Svetofor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Games\ООП\Svetofor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Games\ООП\Svetofor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Games\ООП\Svetofor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Games\ООП\Svetofor\WindowsFormsApp1\bin\Debug\ClassLibrary1.dll
+D:\Games\ООП\Svetofor\WindowsFormsApp1\bin\Debug\ClassLibrary1.pdb
+D:\Games\ООП\Svetofor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Games\ООП\Svetofor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\3IS3\Гуляев Степан\Svetofor1\Svetofor\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\3IS3\Гуляев Степан\Svetofor1\Svetofor\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\3IS3\Гуляев Степан\Svetofor1\Svetofor\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\3IS3\Гуляев Степан\Svetofor1\Svetofor\WindowsFormsApp1\bin\Debug\ClassLibrary1.dll
+D:\3IS3\Гуляев Степан\Svetofor1\Svetofor\WindowsFormsApp1\bin\Debug\ClassLibrary1.pdb
+D:\3IS3\Гуляев Степан\Svetofor1\Svetofor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\3IS3\Гуляев Степан\Svetofor1\Svetofor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\3IS3\Гуляев Степан\Svetofor1\Svetofor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\3IS3\Гуляев Степан\Svetofor1\Svetofor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\3IS3\Гуляев Степан\Svetofor1\Svetofor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\3IS3\Гуляев Степан\Svetofor1\Svetofor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\3IS3\Гуляев Степан\Svetofor1\Svetofor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\3IS3\Гуляев Степан\Svetofor1\Svetofor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Games\ООП\Svetofor1\Svetofor\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Games\ООП\Svetofor1\Svetofor\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Games\ООП\Svetofor1\Svetofor\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Games\ООП\Svetofor1\Svetofor\WindowsFormsApp1\bin\Debug\ClassLibrary1.dll
+D:\Games\ООП\Svetofor1\Svetofor\WindowsFormsApp1\bin\Debug\ClassLibrary1.pdb
+D:\Games\ООП\Svetofor1\Svetofor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Games\ООП\Svetofor1\Svetofor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Games\ООП\Svetofor1\Svetofor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Games\ООП\Svetofor1\Svetofor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Games\ООП\Svetofor1\Svetofor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Games\ООП\Svetofor1\Svetofor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Games\ООП\Svetofor1\Svetofor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Games\ООП\Svetofor1\Svetofor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Games\ООП\Svetofor1\Svetofor\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\Svetofor12\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Desktop\Svetofor12\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\Svetofor12\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\Svetofor12\WindowsFormsApp1\bin\Debug\ClassLibrary1.dll
+C:\Users\user\Desktop\Svetofor12\WindowsFormsApp1\bin\Debug\ClassLibrary1.pdb
+C:\Users\user\Desktop\Svetofor12\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Svetofor12\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Svetofor12\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\Desktop\Svetofor12\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\Svetofor12\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Svetofor12\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Svetofor12\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\user\Desktop\Svetofor12\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\Svetofor12\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\КУрсавая\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\КУрсавая\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\КУрсавая\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\Desktop\КУрсавая\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\КУрсавая\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\КУрсавая\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\КУрсавая\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\КУрсавая\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\КУрсавая\Game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Desktop\КУрсавая\Game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\КУрсавая\Game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\КУрсавая\Game\WindowsFormsApp1\bin\Debug\ClassLibrary1.dll
+C:\Users\user\Desktop\КУрсавая\Game\WindowsFormsApp1\bin\Debug\ClassLibrary1.pdb
+C:\Users\user\Desktop\КУрсавая\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\3IS3\Chernov\Game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\3IS3\Chernov\Game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\3IS3\Chernov\Game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\3IS3\Chernov\Game\WindowsFormsApp1\bin\Debug\ClassLibrary1.dll
+D:\3IS3\Chernov\Game\WindowsFormsApp1\bin\Debug\ClassLibrary1.pdb
+D:\3IS3\Chernov\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\3IS3\Chernov\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\3IS3\Chernov\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\3IS3\Chernov\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\3IS3\Chernov\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\3IS3\Chernov\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\3IS3\Chernov\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\3IS3\Chernov\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\3ИС3\Чернов С\Game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\3ИС3\Чернов С\Game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\3ИС3\Чернов С\Game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\3ИС3\Чернов С\Game\WindowsFormsApp1\bin\Debug\ClassLibrary1.dll
+D:\3ИС3\Чернов С\Game\WindowsFormsApp1\bin\Debug\ClassLibrary1.pdb
+D:\3ИС3\Чернов С\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\3ИС3\Чернов С\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\3ИС3\Чернов С\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\3ИС3\Чернов С\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\3ИС3\Чернов С\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\3ИС3\Чернов С\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\3ИС3\Чернов С\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\3ИС3\Чернов С\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\Игра курсач\Game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Desktop\Игра курсач\Game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\Игра курсач\Game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\Игра курсач\Game\WindowsFormsApp1\bin\Debug\ClassLibrary1.dll
+C:\Users\user\Desktop\Игра курсач\Game\WindowsFormsApp1\bin\Debug\ClassLibrary1.pdb
+C:\Users\user\Desktop\Игра курсач\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Игра курсач\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Игра курсач\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\Desktop\Игра курсач\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\Игра курсач\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Игра курсач\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Игра курсач\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\user\Desktop\Игра курсач\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\Игра курсач\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\3is3\Чернов С\Игра курсач\Game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\3is3\Чернов С\Игра курсач\Game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\3is3\Чернов С\Игра курсач\Game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\3is3\Чернов С\Игра курсач\Game\WindowsFormsApp1\bin\Debug\ClassLibrary1.dll
+D:\3is3\Чернов С\Игра курсач\Game\WindowsFormsApp1\bin\Debug\ClassLibrary1.pdb
+D:\3is3\Чернов С\Игра курсач\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\3is3\Чернов С\Игра курсач\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\3is3\Чернов С\Игра курсач\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\3is3\Чернов С\Игра курсач\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\3is3\Чернов С\Игра курсач\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\3is3\Чернов С\Игра курсач\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\3is3\Чернов С\Игра курсач\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\3is3\Чернов С\Игра курсач\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\Game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Desktop\Game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\Game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\Game\WindowsFormsApp1\bin\Debug\ClassLibrary1.dll
+C:\Users\user\Desktop\Game\WindowsFormsApp1\bin\Debug\ClassLibrary1.pdb
+C:\Users\user\Desktop\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\user\Desktop\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\Курсовая ens\Game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Desktop\Курсовая ens\Game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\Курсовая ens\Game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\Курсовая ens\Game\WindowsFormsApp1\bin\Debug\ClassLibrary1.dll
+C:\Users\user\Desktop\Курсовая ens\Game\WindowsFormsApp1\bin\Debug\ClassLibrary1.pdb
+C:\Users\user\Desktop\Курсовая ens\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Курсовая ens\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Курсовая ens\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\Курсовая ens\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Курсовая ens\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Курсовая ens\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\user\Desktop\Курсовая ens\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\Курсовая ens\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\Курсовая ens\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GameForm.resources
+C:\Users\user\Desktop\Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GameForm.resources
